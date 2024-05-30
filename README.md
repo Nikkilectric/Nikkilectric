@@ -1,16 +1,16 @@
-## Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nikkilectric&theme=synthwave)](https://git.io/streak-stats)
 
-<!--
-**Nikkilectric/Nikkilectric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Nikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkilectric&count_private=false)
 
-Here are some ideas to get you started:
+[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikkilectric)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Nikki / Nikkilectric
+- Pronouns: She/Her
+
+New Developer! I don't have much experience yet, but I hope to gain more!
+
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=ContinentalMC+Owner+%26+Dev)](https://git.io/typing-svg)
