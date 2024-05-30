@@ -6,3 +6,5 @@
 - New Developer! Not much experience.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=ContinentalMC+Owner+%26+Dev)](https://git.io/typing-svg)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1007357876756549813)](https://discord.com/users/1007357876756549813)
